@@ -1,0 +1,16 @@
+# secrets -- never commit real credentials
+.streamlit/secrets.toml
+
+# local databases and generated backups
+*.db
+csv_backup/
+test_csv_export/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

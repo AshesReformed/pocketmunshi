@@ -1,0 +1,5 @@
+streamlit>=1.38,<2
+pandas>=2.0,<3
+plotly>=5.20,<6
+groq>=0.9,<1
+audio-recorder-streamlit>=0.0.10,<0.1
